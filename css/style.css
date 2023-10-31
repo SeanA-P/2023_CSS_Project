@@ -1,0 +1,14 @@
+.container{
+    width: 1200px;
+    margin:auto;
+}
+
+.header{
+    width: inherit;
+    height: 200px;
+}
+
+.navbar{
+    width: inherit;
+
+}
